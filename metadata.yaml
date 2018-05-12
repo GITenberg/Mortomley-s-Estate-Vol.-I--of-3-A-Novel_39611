@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2824
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Riddell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39611#Mortomley-s-Estate-Vol.-I--of-3-A-Novel
 gutenberg_issued: '2012-05-04'
 gutenberg_type: Text
 identifiers:
